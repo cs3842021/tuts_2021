@@ -1,0 +1,79 @@
+\documentclass[12pt,  letterpaper,  twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage[margin=1.5cm]{geometry}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}
+
+\title{Tutorial 04 CS384 -  Academic Subject Record with Excel Output}
+\author{Dr. Mayank Agarwal}
+\date{Assignment Given: 10th Sep 2021,\\ Deadline 12th Sep 2021,  
+23:59\\Submission: GitHub }
+
+\begin{document}
+	\maketitle  
+	\textbf{Things to be kept in mind}\\
+	\begin{enumerate}
+%		\item Dont take any inputs from user . 
+		\item You \textbf{need } to use CSV library and OpenPyXL.   
+				\item You \textcolor{red}{cannot }use \textbf{pandas} 
+				library.   
+		\item Program will be checked for plagiarism.  
+	\end{enumerate}
+	
+PS: This is an old list of courses. You may find your roll number here, but 
+ignore the details. Its  just for your practise. \\
+
+\textbf{Task 1}:\\ You are given a ``regtable\_old.csv" file containing the 
+subjects taken by IITP students. You need to make files for individual roll 
+numbers with their subject information.\\
+
+\noindent Template of ``regtable\_old.csv" is as follows:\\
+\noindent \textbf{rollno}: Roll number of the student \\
+	\textbf{register\_sem}: Semester for which registered. \\	
+		\textbf{schedule\_sem}: Semester for which registered	. \\
+		\textbf{subno}	: Course Code. \\
+		\textbf{grade1}: Ignore. \\
+			\textbf{date\_of\_entry1}: Ignore. \\
+				\textbf{grade2}: Ignore	. \\
+	\textbf{date\_of\_entry2}: Ignore. \\
+		\textbf{sub\_type}: Core/Elective. \\
+
+
+If a roll number has taken $ k $ subjects, there would be $ k $ rows against 
+the roll number in the input file   ``regtable\_old.csv". Your task to read 
+the  
+``regtable\_old.csv" file using the csv library and make $ k $ \textbf{xlsx} 
+files 
+corresponding to $ k $ roll numbers. A sample output for Task 1 is shown in 
+1901EE01.xlsx  file. \\
+
+
+Check the sample\_output folder
+\noindent 1901EE01.xlsx\\ 
+rollno,register\_sem,subno,sub\_type\\
+1901EE01,5,CS384,Open Elective\\
+1901EE01,5,EE330,CORE\\
+1901EE01,5,EE331,CORE\\
+1901EE01,5,EE350,CORE\\
+1901EE01,5,EE370,CORE\\
+1901EE01,5,EE372,CORE\\
+1901EE01,5,EE381,CORE\\
+
+All of the outputs for Task 1 should go into the folder 
+``output\_individual\_roll"
+	
+\textbf{Task 2}:\\
+Now you need to make a file for every individual subject listed in the 
+``regtable\_old.csv". Read the 	\textbf{subno} column	and for each individual 
+subject that have taken those subject. Check the file  sample\_output 
+\textbackslash 
+CS384.xlsx file and make for all unique subjects.\\
+
+All the outputs relating to Task 2 should go into ``output\_by\_subject'' 
+folder. \\
+
+\noindent I placed the sample output folder just for ease of viewing the 
+output. Your outputs should go to folders as described in Task 1 and Task 2.
+	
+\end{document}
