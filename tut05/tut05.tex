@@ -1,0 +1,99 @@
+\documentclass[12pt,  letterpaper,  twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage[margin=1.5cm]{geometry}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}
+
+\title{Mid Sem Assignment CS384 -  Marksheet Generator}
+\author{Dr. Mayank Agarwal}
+\date{Assignment Given: 29th Sep 2021,\\ Deadline 3rd Oct 2021,  
+23:59\\Submission: GitHub }
+
+\begin{document}
+	\maketitle  
+	\textbf{Things to be kept in mind}\\
+	\begin{enumerate}
+%		\item Dont take any inputs from user . 
+				\item You \textcolor{red}{cannot }use \textbf{pandas} 
+library.   
+\item Program will be checked for plagiarism.   
+
+	\end{enumerate}
+	
+	
+You are given a \textbf{grades.csv} file that contains data for the grades for 
+\textbf{IIT 
+Antartica}. 	The content of the file are: \\
+\textbf{Roll}: Roll of the student\\	
+\textbf{Sem}: Semester in which that sub is studied	\\
+\textbf{SubCode}: Course Code \\	
+\textbf{Credit}: Sub Credits\\	
+\textbf{Grade}: Obtained Grade\\	
+\textbf{Sub\_Type}: Whether Core or Elective etc \\
+
+\textbf{names-roll.csv} - This contains the mapping of names and roll numbers.\\
+
+\textbf{subjects\_master.csv} - This contains mapping of course codes and the 
+name of the subject. 
+
+Your task is to generate a marksheet of every roll number and save as ".xlsx" 
+file in the output folder. A sample ``0401CS02.xlsx" is provided for your 
+reference. Its self explainable. The names of each sheet should be like the 
+ones mentioned ``0401CS02.xlsx". Names: Overall, Sem1,...,SemN 
+
+
+
+Calculation of SPI and CPI:
+Suppose in a given semester a student has taken four courses having credits C1, 
+C2, C3 and C4 and
+grade points in those courses are G1, G2, G3 and G4 respectively. Then,
+\begin{equation}
+	SPI = (C_1 * G_1 + C_2 * G_2 + C_3 * G_3 + C_4 * G_4) / (C_1 + C_2 + C_3 + 
+	C_4)
+\end{equation}
+
+\begin{equation}
+	CPI = (SPI1 * Credits\ in\ semester_1 + SPI2 * Credits\ in\ semester_2 + 
+	...) / (Total\ credits)
+\end{equation}
+
+
+For example, if in a given semester a student has taken four courses having 
+credits 6, 6, 6, and 8
+and grade points in those courses are 10, 9, 8, 6 respectively. Then,
+\begin{equation}
+	SPI = (6 * 10 + 6 * 9 + 6 * 8 + 6 * 6) / (6 + 6 + 6 + 8) = 7.62
+\end{equation}
+
+
+
+
+If the student has an SPI of 7.62 in the 1st semester worth (say) 32 credits 
+and 8.2 in the next
+semester worth 36 credits,
+
+
+\begin{equation}
+	CPI (at\ the\ end\ of\ 2nd\ semester) = (7.62 * 32 + 8.2 * 36) / (32 + 36) 
+	= 7.93
+\end{equation}
+
+
+
+
+
+Grade Numeric Equivalent:
+\begin{itemize}
+	\item AA - 10
+	\item AB - 9
+	\item BB - 8
+	\item BC - 7
+	\item CC - 6
+	\item CD - 5
+	\item DD - 4
+	\item F - 0
+	\item I - 0
+\end{itemize}
+	
+\end{document}
