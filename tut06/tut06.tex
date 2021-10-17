@@ -1,0 +1,110 @@
+\documentclass[12pt,  letterpaper,  twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage[margin=1.5cm]{geometry}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}
+
+\title{Tutorial 06 - CS384 -  Web Series Renamer \& Regular Expression}
+\author{Dr. Mayank Agarwal}
+\date{Assignment Given: 17th Oct 2021,\\ Deadline 23rd Oct 2021,  
+	23:59\\Submission: GitHub }
+
+\begin{document}
+	\maketitle  
+	\textbf{Things to be kept in mind}\\
+	\begin{enumerate}
+		%		\item Dont take any inputs from user .  
+		\item Program will be checked for plagiarism.   
+		\item Using Regex is mandatory
+		
+	\end{enumerate}
+	
+	A sample set of \textbf{srt+mp4} is given to you in separate folders. You 
+	need to rename \textbf{mp4 + srt files}. You know that in VLC/any media 
+	play will auto include the srt if the filename and srt name is same. You 
+	need to ask 3 inputs from the users
+	
+	\begin{enumerate}
+		\item Initially make a menu based program that will ask which web 
+		series to 
+		rename. The sample python code I have already given along with the 
+		variables.
+		\item Season Number Padding (take int input): The padding given to the 
+		season number.  A padding of three digits means if the series have 20 
+		seasons then it will be renamed as season 001, 002, 003..., 019, 020.
+		\item Episode Number Padding (take int input): For example,  a padding 
+		of two means if the series have 30 episodes then it will be renamed as 
+		episode 01, 02, ..., 30
+	\end{enumerate}
+	
+	There are 3 folders that you need to rename:
+	\begin{enumerate}
+
+\item  Breaking Bad
+\item   Game of Thrones
+\item 	Lucifer
+
+	\end{enumerate}
+	
+	Lets say the user provides these inputs: 
+
+	
+	\begin{enumerate}
+		\item Main Title of the \textbf{Web Series}: 2 
+		\item Season Number Padding (take int input): 1
+		\item Episode Number Padding (take int input): 2
+	\end{enumerate} 
+	
+	
+	
+	\noindent
+	\textbf{Original}:: `Game of Thrones - 8x05 - The 
+	Bells.WEB.REPACK.MEMENTO.en.srt"  \\
+	\textbf{New}: ``Game of Thrones - Season 8 Episode 05 - 
+	The 
+	Bells.mp4" \\
+	
+	Also look,  there is an interesting case:
+	Look at one of the names:
+	
+	``Game of Thrones - 8x05 - The 
+	Bells.WEB.REPACK.MEMENTO.en.srt''
+	 
+	
+	
+	\noindent
+\textbf{Original}:: `Game of Thrones - 8x05 - The 
+Bells.WEB.REPACK.MEMENTO.en.srt"  \\
+\textbf{New}: ``Game of Thrones - Season 8 Episode 05 - 
+The 
+Bells.mp4" \\
+	
+	Here you can see that ".WEB.REPACK.MEMENTO.en" is the string that is not 
+	required. 
+	Usually every srts have common strings towards the end that needs to be 
+	identified manually and stripped. So in case of Game of Thrones,  you need 
+	to find 
+	out manually such non-useful string and strip them in the final code. A 
+	\textbf{recommended} approach will be \textbf{regex}. Like 
+	\textbf{splitting} on the \textbf{WEB} and other such string (e.g., 
+	\textbf{720p}).
+	
+	\textbf{Task:} Based on the received input,  the filename should be 
+	\textit{seriesname season number (depending on the padding) episode number 
+	(depening on the padding) + episode name ()if any)}.  
+	
+	
+	Following series needs to be renamed (srt+mp4) via the os module. 
+	
+	\begin{enumerate}
+		\item Breaking Bad
+		\item Game of Thrones
+				\item Lucifer
+	\end{enumerate}
+	
+	\textbf{
+		Spaces should be strictly one between characters and numbers.}
+	
+	
+\end{document}
