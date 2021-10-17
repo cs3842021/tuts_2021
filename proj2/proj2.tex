@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[margin=1.5cm]{geometry}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}
+
+\title{Project 2 CS384 -  Class Grading Generator}
+\author{Dr. Mayank Agarwal}
+\date{Assignment Given: 17th Oct 2021,\\ Deadline 1st December 2021,  
+23:59\\Submission: GitHub }
+\begin{document}
+	\maketitle  
+	\textbf{Things to be kept in mind} 
+	\begin{enumerate}
+%		\item Dont take any inputs from user . 
+\item You need to make the project in a group of 2 students. If you wish you 
+can do individually also.  
+\item Program will be checked for plagiarism.   
+\end{enumerate}
+
+As per IITPatna senate norms, these are the grading percentages that need to be 
+given to a class. 
+
+Grade Approx. \% of  students\\
+AA 5\%  \\
+AB 15\%  \\
+BB 25\%  \\
+BC 30\%  \\
+CC 15\%  \\
+CD 5\%  \\
+DD \&   F 5\%   \\
+
+So in a class of 100 students, the grade distribution will be as follows: 
+AA 5,
+AB 15,
+BB 25,
+BC 30,
+CC 15,
+CD 5,
+DD 5.  
+
+You need to make a web based program that takes a csv file as input, 
+The first three columns are freezed 
+
+\noindent \textbf{Sl No}: Serial Number \\
+	\textbf{Roll No}: Roll number of the students\\
+		\textbf{Name}: Name of the student\\ 
+
+Rest of the columns depend on the number of assignments taken by the professor. 
+If someone takes k assignments, then there will be k columns. 
+Row 2 has \textbf{Max Marks} that contains the max marks of a particular 
+assignment. Row 3 has the \textbf{Weightage} that is the weightage that is 
+assigned to every assignment. 
+
+Your program should check that the total weightage should be equal to 100 
+first, then compute the grades. So each of the k assignment is first converted 
+into a scale of 100 marks then scaled to the respective weightage assigned. 
+
+
+
+ 
+
+\end{document}
