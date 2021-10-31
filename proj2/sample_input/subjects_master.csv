@@ -1,0 +1,847 @@
+subno,subname,ltp,crd
+CB102,Biology,1.5-0-0,3
+CB201,Chemical Process Calculations,2-1-0,6
+CB202,Heat Transfer,3-1-0,8
+CB203,Fluid Mechanics,3-1-0,8
+CB204,Mass Transfer - I,2-1-0,6
+CB205,Mechanical Operations,3-0-0,6
+CB206,Chemical Engineering Thermodynamics,3-0-0,6
+CB208,Process Equipment Design - I,1-0-3,5
+CB210,Mechanical Operations and Fluid Flow Lab,0-0-3,3
+CB211,Chemical Process Calculations,3-1-0,8
+CB301,Chemical Reaction Engineering,3-0-0,6
+CB302,Chemical Reaction Engineering,3-0-0,6
+CB303,Mass Transfer - II,2-1-0,6
+CB304,Chemical Process Modelling and Simulation,3-0-0,6
+CB305,Chemical Process Technology,3-0-0,6
+CB306,Chemical Process Simulation Lab,0-0-3,3
+CB307,Process Eqipment Design - II,1-0-3,5
+CB308,Process Control and Instrumentation,3-1-0,8
+CB309,Mass Transfer Lab,0-0-3,3
+CB310,Chemical Reaction Engg. and Environmental Engg. Lab,0-0-3,3
+CB311,Process Control and Instrumentation,3-1-0,8
+CB314,Unit Operations and Heat Transfer Lab,0-0-3,3
+CB315,Reaction Engineering and Chemical Process Laboratory,0-0-3,3
+CB316,Process Control and Instrumentation,3-0-0,6
+CB317,Heat Transfer and Thermodynamics Lab,0-0-3,3
+CB318,Chemical Reactor Design,3-0-0,6
+CB320,Catalysis Science and Engineering,3-0-0,6
+CB324,Bio Process Engineering,3-0-0,6
+CB401,Transport Phenomena,3-1-0,8
+CB402,Project - II,0-0-12,12
+CB403,Summer Training,0-0-0,1
+CB404,Process Plant Design and Economics,3-0-0,6
+CB405,Process Control Lab,0-0-3,3
+CB406,Bio Process Engineering,3-0-0,6
+CB407,Process Plant Design and Economics,3-0-0,6
+CB409,Grand Viva,0-0-0,1
+CB411,Process Equipment Design - II,3-0-0,6
+CB412,Chemical Process Modelling and Simulation,3-0-0,6
+CB417,Project - I,0-0-8,8
+CB428,Renewable Energy Sources,3-0-0,6
+CB501,Molecular Modeling and Simulation,3-0-0,6
+CB502,Heterogeneous Catalysis - Fundamentals and Applications,3-0-0,6
+CB503,Process Integration,3-0-0,6
+CB504,Renewable and Non-Conventional Energy Sources,3-0-0,6
+CB505,Bioprocess Principles and Biotechnology,3-0-0,6
+CB508,Advanced Separation Processes,2-0-2,6
+CE102,Environmental Studies,1.5-0-0,3
+CE111,Engineering Drawing,1-0-3,5
+CE201,Introduction to Materials and Solid Mechanics,3-0-0,6
+CE202,Structural Analysis,3-1-0,8
+CE203,Geomatics Engineering,3-0-0,6
+CE204,Irrigation and Flood Control Engineering,3-0-0,6
+CE205,Fluid Mechanics and Hydraulics,3-0-0,6
+CE206,Introduction to Soil Mechanics and Foundation Engineering,3-0-0,6
+CE207,Fluid Mechanics and Hydraulics Laboratory,0-0-3,3
+CE208,Numerical Methods for Civil and Infrastructure Engineering,3-0-0,6
+CE209,Geomatics Engineering Laboratory,0-0-3,3
+CE210,Soil Mechanics Laboratory,0-0-3,3
+CE211,Structural Mechanics,3-0-0,6
+CE212,Geomatics Engineering Laboratory,0-0-3,3
+CE213,Fluid Mechanics,3-0-0,6
+CE214,Soil Mechanics,3-0-0,6
+CE216,Civil Engineering Materials,3-0-0,6
+CE218,Infrastructure Drawing and Estimation,1-0-3,5
+CE220,Structural Analysis,3-0-0,6
+CE291,Fluid Mechanics Laboratory,0-0-3,3
+CE292,Soil Mechanics Laboratory,0-0-3,3
+CE293,Geomatics Engineering Laboratory,0-0-3,3
+CE301,Design of Reinforced Concrete Structures,3-1-0,8
+CE302,Design of Steel Structures,3-1-0,8
+CE303,Water Supply and Wastewater Engineering,3-0-0,6
+CE304,"Infrastructure Planning, Management and Evaluation",3-0-0,6
+CE305,Transportation Engineering,3-0-0,6
+CE306,Town and Regional Planning,3-0-0,6
+CE307,Construction Planning and Management,3-0-0,6
+CE308,Machineries in Infrastructure Engineering,3-0-0,6
+CE309,"Building Design, Estimation & Construction",2-0-3,7
+CE310,Environmental Quality and Pollution Measurement Laboratory,0-0-3,3
+CE311,Structural Laboratory,0-0-3,3
+CE312,Seminar,0-0-3,3
+CE313,Transportation Engineering Laboratory,0-0-3,3
+CE314,Water Resources Engineering,3-0-0,6
+CE315,Industrial Waste Treatment and Management,3-0-0,6
+CE316,Advanced Soil Mechanics and Foundation Engineering,3-0-0,6
+CE317,Foundation Engineering,3-0-0,6
+CE318,Construction Planning and Management,3-0-0,6
+CE319,Numerical Methods in Civil Engineering,3-0-0,6
+CE320,Design of Steel Structures,3-0-0,6
+CE321,Design of Reinforced Concrete Structures,3-0-0,6
+CE322,Hydrology,3-0-0,6
+CE324,Transportation Engineering,3-0-0,6
+CE381,Introduction to Infotainment,3-0-0,6
+CE391,Environmental Engineering Laboratory,0-0-3,3
+CE392,Transportation Engineering Laboratory,0-0-3,3
+CE393,Structural Engineering and Materials Laboratory,0-0-3,3
+CE394,Water Resources Engineering Laboratory,0-0-3,3
+CE400,Summer Training,0-0-0,2
+CE401,Infrastructure Laws and Professional Ethics,3-0-0,6
+CE403,"Infrastructure Project Economics, Valuation and Contracts",3-0-0,6
+CE442,Industrial Waste Treatment and Management,3-0-0,6
+CE491,Design Studio,0-0-3,3
+CE495,Project - I, 0-0-6,6
+CE496,Project - II,0-0-18,18
+CE498,Project - I,0-0-8,8
+CE499,Project - II,0-0-16,16
+CE501,Sustainable Urban Planning,3-0-0,6
+CE502,Infrastructure Economics,3-0-0,6
+CE503,Construction Technology and Management,3-0-0,6
+CE504,Electrical and Mechanical Systems in Infrastructure Engineering,3-0-0,6
+CE505,Advanced Engineering Mathematics,3-0-0,6
+CE506,Civil Engineering Design - II,1-2-0,6
+CE507,Civil Engineering Design - I,1-2-0,6
+CE508,Reliability Engineering,3-0-0,6
+CE509,Applied Finite Element Method for Industries,3-0-0,6
+CE510,Environmental Impact Assessment,3-0-0,6
+CE512,Finite Element Methods,3-0-0,6
+CE513,Environmental Impact Assessment,3-0-0,6
+CE515,GIS in Water Resources,3-0-0,6
+CE517,Structural Dynamics,3-0-0,6
+CE519,Air Pollution and Control,3-0-0,6
+CE520,Analysis and Design of Foundations,3-0-0,6
+CE521,Infrastructure Laws,3-0-0,6
+CE523,Soil Exploration,3-0-0,6
+CE525,Highway Geometric Design,3-0-0,6
+CE526,Earthquake Resistant Design of Structures,3-0-0,6
+CE527,Physico-Chemical Processes for Water and Wastewater Treatment,3-0-0,6
+CE528,Railway Engineering,3-0-0,6
+CE529,Soil Dynamics,3-0-0,6
+CE530,Geotechnical Earthquake Engineering,3-0-0,6
+CE531,Soil Exploration,3-0-0,6
+CE532,Ground Improvement Techniques and Reinforced Earth,3-0-0,6
+CE533,Solid and Hazardous Waste Management,3-0-0,6
+CE534,Groundwater Hydrology,3-0-0,6
+CE535,Stochastic Hydrology,3-0-0,6
+CE536,Industrial Pollution Control and Prevention,3-0-0,6
+CE537,Structural Dynamics,3-0-0,6
+CE539,Town and Regional Planning,3-0-0,6
+CE541,Water Resources Management,3-0-0,6
+CE544,Site Remediation,3-0-0,6
+CE545,Advanced Foundation Engineering,3-0-0,6
+CE547,Advanced Structural Analysis,3-0-0,6
+CE549,Pavement Materials,3-0-0,6
+CE550,Traffic Engineering and Highway Safety,3-0-0,6
+CE554,Traffic Flow Theory,3-0-0,6
+CE566,Physico-Chemical Processes for Water and Wastewater Treatment,3-0-0,6
+CE568,Advanced Flexible Pavement Analysis and Design,3-0-0,6
+CE591,Infrastructure Engineering Lab-I,0-0-6,6
+CE592,Infrastructure Engineering Lab-II,0-0-6,6
+CE593,Seminar-I,0-0-4,4
+CE594,Seminar-II,0-0-4,4
+CE595,Civil Engineering Lab - I,0-0-3,3
+CE596,Civil Engineering Lab - II,0-0-3,3
+CE598,Seminar,0-0-4,4
+CE601,Comprehensive Viva-voce,0-0-0,10
+CE602,Thesis/Industrial Project Phase-II,0-0-0,45
+CE603,Thesis/Industrial Project Phase-I,0-0-0,40
+CE605,Thesis/Industrial Project Phase I,0-0-0,24
+CE606,Thesis / Industrial Project Phase-II,0-0-0,24
+CH001,Preparatory Chemistry - I,3-2-0,10
+CH002,Preparatory Chemistry - II,3-2-0,10
+CH101,Chemistry - I,3-1-0,8
+CH102,Chemistry - II,3-0-0,6
+CH103,Introductory Chemistry,3-1-0,8
+CH110,Chemistry Laboratory,0-0-3,3
+CH201,Green Chemistry and Technology,3-0-0,6
+CH202,Inorganic Chemistry,3-0-0,6
+CH203,Organic Chemistry,3-1-0,8
+CH204,Polymer Chemistry,3-0-0,6
+CH205,Introduction to Quantum Chemistry,3-0-0,6
+CH206,Medicinal Chemistry and Drug Discovery,3-0-0,6
+CH207,Polymer Chemistry,3-0-0,6
+CH208,Chemical Thermodynamics and Equilibrium,3-0-0,6
+CH210,Chemical Technology Laboratory,0-0-6,6
+CH212,Medicinal Chemistry and Drug Design,3-0-0,6
+CH220,Chemical Technology Laboratory,0-0-3,3
+CH301,Industrial Chemistry,3-0-0,6
+CH302,Environmental Science and Technology,3-0-0,6
+CH303,Chemical Kinetics and Electrochemistry,3-0-0,6
+CH304,Petroleum and Petrochemicals,3-0-0,6
+CH305,Biochemistry and Biotechnology,3-0-0,6
+CH306,Computational Chemistry,2-0-1,5
+CH307,Analytical Techniques in Chemistry,3-0-0,6
+CH308,"Dyes, Paints and Pigments",3-0-0,6
+CH310,Chemical Technology Lab II,0-0-3,3
+CH312,Analytical Techniques in Chemistry,3-0-0,6
+CH320,Chemical Technology Laboratory - III,0-0-3,3
+CH400,Summer Training,0-0-0,2
+CH401,Catalysis,3-0-0,6
+CH402,Biological Chemistry of Metal Ions,3-0-0,6
+CH406,Colloids and Surface Chemistry,3-0-0,6
+CH407,Advanced Organometallic Chemistry,3-0-0,6
+CH409,Application of Statistical Mechanics to Chemistry,3-0-0,6
+CH410,Project - I,0-0-10,10
+CH411,Project - II,0-0-16,16
+CH421,Quantum Chemistry,3-0-0,6
+CH422,Thermodynamics for Chemists,3-0-0,6
+CH423,Principles of Organic Chemistry,3-0-0,6
+CH424,Reagents and Tools in Organic Chemistry,3-0-0,6
+CH425,Chemistry of s- and p-block elements,3-0-0,6
+CH426,Chemistry of Transition Metals,3-0-0,6
+CH427,Symmetry and Group Theory for Chemists,3-0-0,6
+CH428,Principle of Molecular Spectroscopy,3-0-0,6
+CH429,Biochemistry,3-0-0,6
+CH430,Organic Chemistry Lab,0-0-6,6
+CH432,Modern Methods of Analysis,3-0-0,6
+CH434,Computer in Chemistry,2-0-0,4
+CH440,Inorganic Chemistry Lab,0-0-6,6
+CH498,Project - I,0-0-6,6
+CH499,Project - II,0-0-18,18
+CH501,Nanobiotechnology,3-0-0,6
+CH502,Supramolecular Chemistry,3-0-0,6
+CH511,Theory and Modelling in Nanoscience,3-0-0,6
+CH512,Nanotechnology for Medical Diagnostics and Therapy,3-0-0,6
+CH521,Chemical Kinetics,3-0-0,6
+CH522,Comprehensive Viva Voce,0-0-0,2
+CH523,Concept in Organic Chemistry,3-0-0,6
+CH525,Organometallic and Bioinorganic Chemistry of Transition Metals,3-0-0,6
+CH527,Seminar,0-0-0,2
+CH530,Physical Chemistry Lab,0-0-6,6
+CH591,Project,0-0-6,6
+CH592,Project,0-0-20,20
+CH601,Chemistry and Applications of Macromolecules,3-0-0,6
+CH602,Solid State Chemistry,3-0-0,6
+CH603,Non-equilibrium Statistical Mechanics,3-0-0,6
+CH604,Art in Organic Synthesis,3-0-0,6
+CH605,Spectroscopic Techniques in Chemistry,3-0-0,6
+CH606,Supramolecular Chemistry,3-0-0,6
+CH607,Bioanalytical Techniques,3-0-0,6
+CH608,Introduction to Computational Chemistry,3-0-0,6
+CH609,New Reagents for Organic Synthesis,3-0-0,6
+CH611,Application of Glycochemistry in Modern Technology,3-0-0,6
+CH701,Supramolecular Chemistry,3-0-0,6
+CH702,New Reagents for Organic Synthesis,3-0-0,6
+CH703,Spectroscopic Techniques in Chemistry,3-0-0,6
+CH704,Art in Organic Synthesis,3-0-0,6
+CH705,Bioanalytical Techniques,3-0-0,6
+CH706,Introduction to Computational Chemistry,3-0-0,6
+CH707,Introduction to Polymer Science and Technology,3-0-0,6
+CH708,Glycochemistry,3-0-0,6
+CS101,Introduction to Computing,3-0-0,6
+CS102,Programming and Data Structures,3-0-0,6
+CS110,Computing Laboratory,0-0-3,3
+CS112,Programming and Data Structures Laboratory,0-0-3,3
+CS201,Object Oriented Programming and Data Structures,3-0-3,9
+CS203,Discrete Mathematics,3-0-0,6
+CS204,Algorithms,3-0-0,6
+CS205,Algorithm Laboratory,0-0-3,3
+CS206,Discrete Mathematics,3-1-0,8
+CS221,Digital Design,3-0-0,6
+CS222,Computer Organization and Architecture,3-0-0,6
+CS223,Hardware Laboratory,0-0-3,3
+CS224,Algorithm Laboratory,0-0-3,3
+CS225,Switching Theory,3-0-0,6
+CS226,Switching Theory Laboratory,0-0-3,3
+CS229,Innovative Design Lab,0-0-4,4
+CS241,Software Engineering,2-0-3,7
+CS242,Systems Programming Laboratory,0-1-3,5
+CS244,Introduction to Data Science,3-0-0,6
+CS299,Innovative Design Laboratory,0-0-4,4
+CS301,Formal Language and Automata,3-0-0,6
+CS302,Theory of Computation,3-0-0,6
+CS303,Formal Language & Automata Theory,3-1-0,8
+CS321,Computer Architecture,3-0-0,6
+CS322,Computer Architecture Lab,0-0-3,3
+CS331,Programming Language,3-0-2,8
+CS335,Bio-inspired Robotics,3-0-0,6
+CS341,Operating Systems,3-0-0,6
+CS342,Operating Systems Laboratory,0-1-3,5
+CS343,Data Communications,3-0-0,6
+CS344,Databases,3-0-0,6
+CS345,Databases Laboratory,0-1-3,5
+CS346,Compilers,3-0-0,6
+CS347,Compliers Laboratory,0-0-3,3
+CS348,Computer Networks,3-0-2,8
+CS354,Database,3-0-0,6
+CS355,Database Lab,0-0-3,3
+CS358,Computer Network,3-0-0,6
+CS359,Computer Network Lab,0-0-3,3
+CS362,Computer Graphics,3-0-2,8
+CS372,Computer Graphics,3-0-0,6
+CS381,Introduction to Infotainment,3-0-0,6
+CS382,OOP and Data Structures,2-0-2,6
+CS384,Python Programming,2-0-2,6
+CS391,Principles of Programming Languages,2-0-2,6
+CS392,Secure System Design: Threats and Countermeasures,3-0-0,6
+CS399,Seminar,0-0-3,3
+CS400,Summer Training,0-0-0,2
+CS401,Foundations of Computer Science,3-0-0,6
+CS421,Computer Peripherals and Interfacing,3-0-0,6
+CS422,Peripherals and Interfacing Lab,0-1-3,5
+CS423,VLSI CAD,3-0-0,6
+CS441,Topics in Databases,3-0-0,6
+CS443,Distributed Systems,3-0-0,6
+CS449,Computer and Network Security,3-0-0,6
+CS452,Internet Protocols,3-0-0,6
+CS453,Wireless Sensor Networks,3-0-0,6
+CS461,Artificial Intelligence,3-0-0,6
+CS491,Project - I,0-0-6,6
+CS492,Project - II,0-0-12,12
+CS498,Project - I,0-0-10,10
+CS499,Project - II,0-0-16,16
+CS501,Database Systems and Data mining,3-0-0,6
+CS502,Pattern Recognition,3-0-0,6
+CS503,Advances in Algorithms,3-0-0,6
+CS504,Computer Networks and Distributed Systems,3-0-0,6
+CS505,Advanced Graph Theory,3-0-0,6
+CS507,Cyber Security,3-0-0,6
+CS508,Formal Methods for Analysis and Verification,3-0-0,6
+CS511,Foundation of Theoretical Computer Science,3-0-0,6
+CS512,Data Structures and Algorithms,3-0-0,6
+CS513,Computer Systems Lab - II,0-0-6,6
+CS514,Design and Analysis of Algorithms,3-0-0,6
+CS515,Computer Systems Lab - II,0-0-3,3
+CS528,CAD for VLSI,3-0-0,6
+CS541,Foundations of Computer Systems,3-0-0,6
+CS542,Software Testing,3-0-0,6
+CS543,Distributed Systems,3-0-0,6
+CS544,Introduction to Network Science,3-0-0,6
+CS545,Wireless Sensor Networks,3-0-0,6
+CS547,Foundation of Computer Security,3-0-0,6
+CS548,Wireless Networks,3-0-0,6
+CS549,Computer and Network Security,3-0-0,6
+CS551,Introduction to Deep Learning,3-0-0,6
+CS555,Big Data Computing,2-0-2,6
+CS557,Cryptography,3-0-0,6
+CS558,Computer Systems Lab - I,0-0-6,6
+CS559,Computer Systems Lab - I,0-0-3,3
+CS561,Artificial Intelligence,3-0-0,6
+CS563,Natural Language Processing,3-0-0,6
+CS564,Foundations of Machine Learning,3-0-0,6
+CS565,Cloud Computing,3-0-0,6
+CS566,Advanced Machine Learning,3-0-0,6
+CS571,Artificial Intelligence,3-0-3,9
+CS574,Machine Learning for Intelligent Public Transport Systems,3-0-0,6
+CS577,Inroduction to Blockchain and Cryptocurrency,3-0-0,6
+CS591,Seminar - I,0-0-4,4
+CS592,Minor Project / Seminar,0-0-4,4
+CS691,Comprehensive Viva,0-0-0,10
+CS695,Project Phase I,0-0-24,24
+CS696,Project Thesis - II,0-0-0,24
+CS698,Project Thesis - I,0-0-0,40
+CS699,Project Thesis - II,0-0-0,45
+CS701,Distributed Systems and Algorithms,3-0-0,6
+CS703,Quantum Computing,3-0-0,6
+CS741,Topics in Computer Networks,3-0-0,6
+CS742,Cryptography and Network Security,3-0-0,6
+CS743,Advanced Topics on Database,3-0-0,6
+CS761,Natural Language Processing and the Web,3-0-0,6
+EE101,Electrical Sciences,3-1-0,8
+EE102,Basic Electronics Laboratory,0-0-4,4
+EE103,Basic Electronics Laboratory,0-0-3,3
+EE200,Semiconductor Devices and Circuits,3-0-0,6
+EE201,Digital Circuits and Microprocessors,3-0-0,6
+EE202,Digital Circuits Laboratory,0-0-3,3
+EE203,Analog Integrated Circuits,3-0-0,6
+EE204,Analog Circuits Laboratory,0-0-3,3
+EE205,Network Analysis and Synthesis,3-0-0,6
+EE220,"Signal, System and Networks",3-1-0,8
+EE221,Signals and Systems,3-0-0,6
+EE230,Principles of Communication,3-1-0,8
+EE280,Electrical Machines,3-0-0,6
+EE281,Electrical Machines Laboratory,0-0-3,3
+EE304,Design Laboratory,0-0-4,4
+EE305,Design Laboratory,0-0-3,3
+EE309,VLSI Design,3-0-0,6
+EE310,Introduction to VLSI Design,3-0-0,6
+EE311,VLSI laboratory,0-0-3,3
+EE320,Digital Signal Processing,3-0-0,6
+EE321,Digital Signal Processing Laboratory,0-0-3,3
+EE322,Mathematical Methods in Electrical Engineering,3-0-0,6
+EE330,Communication Systems,3-0-0,6
+EE331,Communication Laboratory,0-0-3,3
+EE340,Electromagnetic Theory,3-0-0,6
+EE341,Electromagnetic Theory and Applications,3-0-0,6
+EE350,Control Systems,3-0-0,6
+EE351,Advanced Control Systems,3-0-0,6
+EE360,Embedded Systems,3-0-0,6
+EE361,Embedded Systems Laboratory,0-0-3,3
+EE370,Electronic Instrumentation,3-0-0,6
+EE371,Instrumentation and Control Lab,0-0-3,3
+EE372,Control and Instrumentation Laboratory,0-0-3,3
+EE380,Electrical Power Systems,3-0-0,6
+EE381,Power Systems,3-0-0,6
+EE382,Power Electronics,3-0-0,6
+EE391,Electrical Machines Laboratory,0-0-3,3
+EE400,Summer Training,0-0-0,2
+EE410,VLSI CAD,3-0-0,6
+EE430,Fiber Optic Transmission Systems and Networks,3-0-0,6
+EE440,Microwave Engineering,3-0-0,6
+EE480,Electrical Power Systems Operation and Control,3-0-0,6
+EE481,Power Electronics and Drives,3-0-0,6
+EE482,Advanced Electrical Engineering Laboratory,0-0-3,3
+EE483,Distributed Energy Resources,3-0-0,6
+EE484,Power Electronics Lab,0-0-3,3
+EE485,Power System Protection Lab,0-0-3,3
+EE486,Power System Protection,3-0-0,6
+EE490,Image Processing,3-0-0,6
+EE491,Visual Surveillance Systems,3-0-0,6
+EE493,Project - I,0-0-6,6
+EE494,Project - II,0-0-16,16
+EE496,Project - II,0-0-18,18
+EE498,Project - I,0-0-8,8
+EE499,Project - II,0-0-14,14
+EE499A,Project - I,0-0-10,10
+EE501,Control of Mechatronic Systems,3-0-0,6
+EE503,Computational Fluid Dynamics,3-0-0,6
+EE505,Microproessors and Embedded Systems,3-0-0,6
+EE507,MOS Modeling and Simulation,3-0-0,6
+EE508,Intelligent Visual Surveillance Systems,3-0-0,6
+EE511,Digital VLSI Systems,3-0-0,6
+EE512,Embedded Systems,3-0-0,6
+EE513,Analog and Mixed Signal Systems,3-0-0,6
+EE514,High Performance Computing Systems,3-0-0,6
+EE515,VLSI Laboratory,0-0-3,3
+EE516,Embedded System Laboratory,0-0-3,3
+EE517,Seminar,0-0-4,4
+EE518,Project Phase-I,0-0-0,24
+EE519,Project Thesis - II,0-0-24,24
+EE520,Advanced Digital Signal Processing,3-0-0,6
+EE521,Statistical Signal Processing for Communication,3-0-0,6
+EE523,Advanced Bio-Medical Signal Processing,3-0-0,6
+EE524,Random Process and Estimation Theory,3-0-0,6
+EE525,Digital Image Processing,3-0-0,6
+EE528,Deep Learning for Video Surveillance Systems,3-0-0,6
+EE530,Advanced Digital Communication,3-0-0,6
+EE531,Communication System Engineering Lab - I,0-0-6,6
+EE532,Optical Communication,3-0-0,6
+EE533,Communication System Engineering Lab - II,0-0-6,6
+EE534,Wireless Communication,3-0-0,6
+EE535,Communication Network,3-0-0,6
+EE536,Wireless Communication Integrated Circuits,3-0-0,6
+EE537,Optical Networks,3-0-0,6
+EE540,Radio Frequency Integrated Circuits,3-0-0,6
+EE541,Communication System Engineering Lab - I,0-0-3,3
+EE542,Communication System Engineering Lab - II,0-0-3,3
+EE549,Power System Dynamics and Control,3-0-0,6
+EE550,Advances in Microgrid Control and Protection,3-0-0,6
+EE560,Information Theory and Coding,3-0-0,6
+EE570,Facts Controller and Power Systems,3-0-0,6
+EE572,Low Power Circuits and Systems,3-0-0,6
+EE573,VLSI Technology,3-0-0,6
+EE590,Seminar-I,0-0-4,4
+EE591,Seminar-II,0-0-4,4
+EE592,Comprehensive Viva,0-0-0,10
+EE593,Project Part - I,0-0-0,40
+EE594,Project - Part II,0-0-0,45
+EE595,Project Part I,0-0-0,24
+EE596,Project Part - II,0-0-0,24
+EE701,Random Signals and Filtering Theory,3-0-0,6
+EE711,Wireless Communication,3-0-0,6
+EE712,Information and Coding Theory,3-0-0,6
+EE715,Optical Networks,3-0-0,6
+EE716,Advanced Optical Fiber Communication and Photonic Technology,3-0-0,6
+EE720,Advanced Digital Image Processing,3-0-0,6
+EE730,Radio Frequency Integrated Circuits,3-0-0,6
+EE731,Antenna Theory and Design,3-0-0,6
+EE732,Electromagnetic Compatibility,3-0-0,6
+EE751,Modeling and Simulation of Modern Power Systems,3-0-0,6
+EE760,Basics of Power Electronics Converters,3-0-0,6
+HS001,Preparatory English - I,3-2-0,10
+HS002,Preparatory English - II,3-2-0,10
+HS101,English : Language Through Literature,3-0-0,6
+HS103,Communicative English for Engineers,2-0.5-1,6
+HS104,Spoken Proficiency Course,0-0-0,0
+HS201,Introductory Microeconomics,3-0-0,6
+HS202,Introductory Macroeconomics,3-0-0,6
+HS211,Literature: Voices and Culture,3-0-0,6
+HS212,Diasporic Literature,3-0-0,6
+HS221,Fundamentals of Linguistics Science,3-0-0,6
+HS222,"Language, Human Mind and Indian Society",3-0-0,6
+HS223,Cognition: Language and Computation,3-0-0,6
+HS231,Introductory Sociology,3-0-0,6
+HS232,Health Care Management,3-0-0,6
+HS233,Globalization and Social Change,3-0-0,6
+HS241,General Psychology,3-0-0,6
+HS301,Financial Economics,3-0-0,6
+HS302,Financial Analytic,3-0-0,6
+HS311,Diasporic Literature,3-0-0,6
+HS312,Soft Skills,3-0-0,6
+HS322,"FORENSIC LINGUISTICS: LANGUAGE, LAW AND TECHNOLOGY",3-0-0,6
+HS331,Sociology of Development,3-0-0,6
+HS341,Industrial Psychology,3-0-0,6
+HS342,"Mind, Life and Consciousness",3-0-0,6
+HS351,Entrepreneurship,3-0-0,6
+HS411,Soft Skills,3-0-0,6
+HS421,Fundamentals of Cognitive Science,3-0-0,6
+HS441,Industrial and Organizational Psychology,3-0-0,6
+HS444,Living Well: Social and Positive Psychology,3-0-0,6
+HS451,Innovations for Social Impact,1-1-2,6
+HS4XY,HS Elective,3-0-0,6
+HS502,Introductory IPR,2-0-2,6
+HS504,Econometrics,3-0-0,6
+HS513,Technical Communication,2-0-0,4
+HS514,Technical Communication,2-0-0,4
+HS531,"Science, Technology and Society",3-0-0,6
+HS552,Business Ethics,3-0-0,6
+HS701,"Growth, Development and Public Policy",3-0-0,6
+HS702,Globalization and Trade,3-0-0,6
+HS711,Representation of Gender in Literature,3-0-0,6
+HS712,Essential English,2-0-0,4
+HS713,Literary Representation of the Postcolonial Nation,3-0-0,6
+HS715,Modern Short Fiction in English,3-0-0,6
+HS716,ELT METHODOLOGY - THEORY AND PRACTICE,2-0-2,6
+HS721,Current Trends in Linguistic Theory,3-0-0,6
+HS722,Sociolinguistics: Theory and Methods,3-0-0,6
+HS725,Trends in Applied Linguistics,3-0-0,6
+HS731,Social Research Design and Practice,3-0-0,6
+HS732,Sociology of Education,3-0-0,6
+HS733,Population and Public Health,3-0-0,6
+HS734,Theories of Knowing in Society,3-0-0,6
+HS744,Indian Psychology,3-0-0,6
+HS751,Organizational Behaviour,3-0-0,6
+HS752,Sourcing and Managing Talent,3-0-0,6
+HS754,Business Ethics,3-0-0,6
+HSS233,Globalization and Social Change,3-0-0,6
+MA001,Preparatory Mathematics - I,3-2-0,10
+MA002,Preparatory Mathematics - II,3-2-0,10
+MA101,Mathematics - I,3-1-0,8
+MA102,Mathematics - II,3-1-0,8
+MA201,Mathematics - III,3-1-0,8
+MA212,Algebra and Number Theory,3-0-0,6
+MA214,Introduction to Computational Topology,3-0-0,6
+MA225,Probability Theory and Random Processes,3-1-0,8
+MA231,Introduction to Numerical Methods,3-0-0,6
+MA251,Optimization Techniques,3-0-0,6
+MA410,"Graphs, Groups and Network",3-0-0,6
+MA412,Matrix Computation,3-0-0,6
+MA421,Linear Algebra,3-1-0,8
+MA422,Topology,3-1-0,8
+MA423,Data Structure and Programming Language,3-0-2,8
+MA424,Complex Analysis,3-1-0,8
+MA425,Real Analysis,3-1-0,8
+MA426,Probability and Statistics,3-1-0,8
+MA427,Algebra,3-1-0,8
+MA428,Measure Theory and Integrations,3-1-0,8
+MA429,Ordinary Differential Equations,3-1-0,8
+MA430,Numerical Analysis,3-0-2,8
+MA501,"Probability, Statistics & Stochastic Processes",3-0-0,6
+MA502,Numerical Optimization,3-0-0,6
+MA503,Discrete Structures,3-0-0,6
+MA504,Computational Differential Equation,3-0-0,6
+MA505,Number Theory and Cryptography,3-0-0,6
+MA507,Nonlinear Optimization,3-0-0,6
+MA508,Fuzzy Sets and Artificial Intelligence,3-0-0,6
+MA509,Graph Theory,3-0-0,6
+MA510,Advanced Multivariate Statistics,3-0-0,6
+MA511,Large Scale Scientific Computation,3-0-0,6
+MA512,Mathematical Modelling,3-0-0,6
+MA515,Geometric and Topological Modelling for Engineers,3-0-0,6
+MA521,Functional Analysis,3-0-0,6
+MA522,Combinatorics,3-0-0,6
+MA523,Partial Differential Equations,3-0-0,6
+MA524,Differential Geometry,3-0-0,6
+MA525,Operations Research,3-0-0,6
+MA527,Algebraic Topology,3-0-0,6
+MA531,Control Theory,3-0-0,6
+MA532,Introduction to Biomathematics,3-0-0,6
+MA533,Graph Theory,3-0-0,6
+MA534,Operators on Hilbert Spaces,3-0-0,6
+MA536,Rings and Modules,3-0-0,6
+MA539,Mathematical Modelling,3-0-0,6
+MA540,Wavelets Transform,3-0-0,6
+MA541,Statistical Inference,3-0-0,6
+MA591,Project Stage I,0-0-8,8
+MA592,Project Stage - II,0-0-8,8
+MA600,Comprehensive Viva,0-0-0,10
+MA601,Project - Phase I,0-0-0,40
+MA602,Project - Phase II,0-0-0,45
+MA603,Project Thesis,0-0-0,24
+MA604,Project Thesis - II,0-0-0,24
+MA632,Sobolev Spaces,3-0-0,6
+MA634,Generalized Convexity and Nonlinear Optimization,3-0-0,6
+MA701,Algebra,3-0-0,6
+MA707,Algebraic Number Theory,3-0-0,6
+MA711,Analysis - I,3-0-0,6
+MA712,Analysis - II,3-0-0,6
+MA713,Topology,3-0-0,6
+MA731,Differential Equations,3-0-0,6
+MA752,Mathematical Control Theory,3-0-0,6
+MA771,Probability Theory and Statistical Inference,3-0-0,6
+MC501,Data Structures & Algorithms Lab,0-0-6,6
+MC502,Simulation Lab,0-0-6,6
+MC503,Simulation Lab,0-0-3,3
+MC504,Data Structures and Algorithm Lab,0-0-3,3
+MC591,Seminar - I,0-0-4,4
+MC592,Seminar II,0-0-4,4
+MC594,Seminar,0-0-4,4
+ME101,Engineering Mechanics,3-1-0,8
+ME102,Engineering Mechanics,3-1-0,8
+ME110,Workshop - I,0-0-3,3
+ME111,Engineering Drawing,2-0-3,7
+ME201,Solid Mechanics,2-1-0,6
+ME202,Engineering Materials,3-0-0,6
+ME203,Advanced Solid Mechanics,2-1-0,6
+ME204,Fluid Mechanics - I,2-1-0,6
+ME205,Thermodynamics,3-1-0,8
+ME206,Fluid Mechanics - II,2-1-0,6
+ME207,Dynamics,3-0-0,6
+ME208,Kinematics and Dynamics of Mechanism,3-0-2,8
+ME209,Thermodynamics,3-1-0,8
+ME210,Workshop - II,0-0-6,6
+ME211,Machine Drawing,0-0-4,4
+ME212,Mechanical Engineering Laboratory - I,0-0-4,4
+ME214,Mechanics of Solids,3-0-0,6
+ME216,Fluid Mechanics,3-0-2,8
+ME231,Engineering Materials,3-0-2,8
+ME292,Measurement Laboratory,0-0-2,2
+ME301,Manufacturing Technology - I,3-1-0,8
+ME302,Mechanical Measurements,2-1-0,6
+ME303,Design of Machine Elements,3-1-0,8
+ME304,Kinematics of Machinery,2-1-0,6
+ME305,Heat and Mass Transfer,3-1-0,8
+ME306,Manufacturing Technology - II,3-1-0,8
+ME307,Machine Design,3-0-2,8
+ME308,Dynamics of Machinery,2-1-0,6
+ME309,Control Systems,3-1-0,8
+ME310,Mechanical Engineering Laboratory - II,0-0-4,4
+ME311,Mechanical Engineering Laboratory - III,0-0-4,4
+ME312,System Dynamics and Control,3-0-2,8
+ME313,Design of Machine Elements,3-0-3,9
+ME314,Applied Thermodynamics,3-0-2,8
+ME315,Heat and Mass Transfer,3-0-2,8
+ME321,Applied Thermodynamics - I,2-1-0,6
+ME322,Applied Thermodynamics - II,2-1-0,6
+ME331,Manufacturing Technology,3-0-0,6
+ME332,Manufacturing Technology - II,3-0-3,9
+ME335,Bio-inspired Robotics,3-0-0,6
+ME393,Engineering Software Laboratory - I,1-0-3,5
+ME395,Engineering Practicum - I,0-0-3,3
+ME396,Engineering Practicum - II,0-0-3,3
+ME400,Summer Training,0-0-0,2
+ME401,Industrial Engineering and Operations Research,3-1-0,8
+ME411,Mechanical Engineering Laboratory - IV,0-0-4,4
+ME431,Industrial Engineering and Operations Research,3-0-0,6
+ME441,Computational Fluid Dynamics,3-0-0,6
+ME442,Aerodynamics,3-0-0,6
+ME443,Dynamics of Structural Members,3-0-0,6
+ME445,Finite Element Method,3-0-0,6
+ME446,Composite Materials and Engineering,3-0-0,6
+ME447,Laser Material Processing,3-0-0,6
+ME448,Rotor Dynamics,3-0-0,6
+ME449,Refrigeration and Air Conditioning,3-0-0,6
+ME461,Robotics and Robot Applications,3-0-0,6
+ME481,Introduction to Biomechanics,3-0-0,6
+ME495,Project - I,0-0-6,6
+ME496,Project - II,0-0-18,18
+ME498,Project - I,0-0-8,8
+ME499,Project - II,0-0-16,16
+ME501,Robotics: Advanced Concepts and Analysis,3-0-0,6
+ME503,Computational Fluid Dynamics,3-0-0,6
+ME504,Vehicle Dynamics and Multi-body Systems,3-0-0,6
+ME512,Mobile Robotics,3-0-0,6
+ME519,Engineering Software,1-0-4,6
+ME521,Advanced Fluid Dynamics,3-0-0,6
+ME522,Advanced Heat Transfer,3-0-0,6
+ME523,Advanced Dynamics & Vibration for Solid Mechanics & Design stream,3-0-0,6
+ME524,Theory of Elasticity for Solid Mechanics & Design stream,3-0-0,6
+ME525,Metal Cutting & Analysis,3-0-0,6
+ME526,Metal Forming and Analysis,3-0-0,6
+ME527,Thermo Fluids Lab I,0-0-6,6
+ME528,Thermo-Fluids Lab II,0-0-6,6
+ME529,Thermo-Fluids-Lab - I,0-0-3,3
+ME530,Thermo-Fluids Lab - II,0-0-3,3
+ME531,Manufacturing Lab-I,0-0-3,3
+ME532,Manufacturing Lab - II,0-0-3,3
+ME533,Finite Element Analysis,3-0-0,6
+ME534,Wear and Lubrication of Machine Components,3-0-0,6
+ME535,Acoustics,3-0-0,6
+ME536,Non-linear Systems Dynamics,3-0-0,6
+ME537,Refrigeration and Air-Conditioning,3-0-0,6
+ME538,Solid Mechanics and Design Lab - I,0-0-3,3
+ME541,Turbulent Shear Flows,3-0-0,6
+ME542,Aerodaynamics,3-0-0,6
+ME543,Combustion and Fire Dynamics,3-0-0,6
+ME544,"Composite Materials : Mechanics, Processing and Testing",3-0-0,6
+ME546,Mult-Phase flow and Heat Transfer,3-0-0,6
+ME547,Laser Material Processing,3-0-0,6
+ME554,Rotordynamics,3-0-0,6
+ME581,Biomechanics and Biomechatronics,3-0-0,6
+ME600,Comprehensive Viva,0-0-0,10
+ME601,Project-Phase I,0-0-0,40
+ME602,Project - Phase II,0-0-0,45
+ME603,Project Phase I,0-0-0,24
+ME604,Project Phase - II,0-0-0,24
+ME702,Advanced Fluid Mechanics,3-0-0,6
+ME721,Non-Linear Elasticity and Fracture Mechanics,3-0-0,6
+ME742,Advanced Manufacturing Processes,3-0-0,6
+ME761,Computational Techniques in Mechanical Engineering,3-0-0,6
+ME765,Soft Computing Application in Engineering,3-0-0,6
+ME767,Computational Methods in Mechanical Engineering,3-0-0,6
+ME768,Applied Analytical Methods in Engineering,3-0-0,6
+MH501,Fundamentals of Mechatronics,3-0-0,6
+MH502,Sensors and Actuators,3-0-0,6
+MH503,Advanced Engineering Mathematics,3-0-0,6
+MH504,Modeling and Simulation of Mechatronic Systems,3-0-0,6
+MH505,Mechatronic Laboratory - I,0-0-6,6
+MH506,Mechatronics laboratory-II,0-0-6,6
+MH507,Seminar - I,0-0-4,4
+MH508,Seminar,0-0-4,4
+MH519,Mechatronic Laboratory - I,0-0-3,3
+MH520,Mechatronic Laboratory-II,0-0-3,3
+MH600,Comprehensive Viva,0-0-0,10
+MH601,Project - Phase I,0-0-0,40
+MH602,Project - Phase II,0-0-0,45
+MH603,Project Phase I,0-0-0,24
+MH604,Project Phase - II,0-0-0,24
+MM501,Nano-structured Materials,3-0-0,6
+MM502,Materials Processing Technology,3-0-0,6
+MM503,Advanced Materials Characterisation Techniques,3-0-0,6
+MM504,Structural and Functional Properties of Materials,3-0-0,6
+MM505,Thermodynamics and Phase Diagrams,3-0-0,6
+MM506,Microstructure and Phase Analysis Laboratory,0-0-6,6
+MM507,Seminar-I,0-0-4,4
+MM508,Advanced Ceramics and Glass,3-0-0,6
+MM509,Surface Engineering,3-0-0,6
+MM510,Composite Science and Technology,3-0-0,6
+MM511,Rubber Science and Technology,3-0-0,6
+MM512,Alloy Development and Heat Treatment,3-0-0,6
+MM513,Coating Technology,3-0-0,6
+MM514,Joining of Materials,3-0-0,6
+MM515,Advanced Building Materials,3-0-0,6
+MM516,Materials Characterisation Laboratory,0-0-6,6
+MM517,Seminar-II,0-0-4,4
+MM519,Microstructure and Phase Analysis Laboratory,0-0-3,3
+MM520,Materials Characterisation Laboratory,0-0-3,3
+MM522,Thin Films : An Engineering Approach,3-0-0,6
+MM600,Comprehensive Viva,0-0-0,10
+MM601,Project-Phase I,0-0-0,40
+MM602,Project-Phase II,0-0-0,45
+MM603,Project Phase I,0-0-0,24
+MM604,Project Phase - II,0-0-0,24
+MM711,Analysis - I,3-0-0,6
+MS501,Nano-structured Materials,3-0-0,6
+MS502,Materials Processing Technology,3-0-0,6
+MS503,Advanced Materials Characterisation Techniques,3-0-0,6
+MS504,Structural and Functional Properties of Materials,3-0-0,6
+MS505,Thermodynamics and Phase Diagrams,3-0-0,6
+MS506,Microstructure and Phase Analysis Laboratory,0-0-6,6
+MS507,Seminar-I,0-0-4,4
+MS508,Advanced Ceramics and Glass,3-0-0,6
+MS509,Surface Engineering,3-0-0,6
+MS510,Composite Science and Technology,3-0-0,6
+MS511,Rubber Science and Technology,3-0-0,6
+MS512,Alloy Development and Heat Treatment,3-0-0,6
+MS513,Coating Technology,3-0-0,6
+MS514,Joining of Materials,3-0-0,6
+MS515,Advanced Building Materials,3-0-0,6
+MS516,Materials Characterisation Laboratory,0-0-6,6
+MS517,Seminar,0-0-4,4
+MS519,Microstructure and Phase Analysis Laboratory,0-0-3,3
+MS520,Materials Characterisation Laboratory,0-0-3,3
+MS522,Thin Films : An Engineering Approach,3-0-0,6
+MS600,Comprehensive Viva,0-0-0,10
+MS601,Project-Phase I,0-0-0,40
+MS602,Project-Phase II,0-0-0,45
+MS603,Project Phase I,0-0-0,24
+MS604,Project Phase - II,0-0-0,24
+MS711,Analysis - I,3-0-0,6
+NCCS,NCC / NSS,0-0-0,0
+NSO,National Sports Organization,0-0-0,0
+NSS,National Service Scheme,0-0-0,0
+NT501,Concepts of Nanomaterials,3-0-0,6
+NT502,Analytical Techniques,3-0-0,6
+NT503,Nanoscale Measurement and Analysis Laboratory,0-0-6,6
+NT504,Topical Seminar - I,0-0-4,4
+NT505,Nanoscale Measurement and Analysis Laboratory,0-0-3,3
+NT511,Design and Synthesis of Nanomaterials,3-0-0,6
+NT512,Nanoscale Devices,3-0-0,6
+NT513,Nanomaterial Synthesis and Device Fabrication Lab,0-0-6,6
+NT514,Topical Seminar - II,0-0-4,4
+NT515,Nanomaterial Synthesis and Device Fabrication Laboratory,0-0-3,3
+NT601,Project - Phase I,0-0-0,40
+NT602,Comprehensive Viva,0-0-0,10
+NT610,Project I,0-0-0,24
+NT611,Project - Phase II,0-0-0,45
+NT620,Project - II,0-0-0,24
+PH001,Preparatory Physics - I,3-2-0,10
+PH002,Preparatory Physics - II,3-2-0,10
+PH101,Physics - I,2-1-0,6
+PH102,Physics - II,2-1-0,6
+PH103,Physics - I,3-1-0,8
+PH110,Physics Laboratory,0-0-3,3
+PH201,Optics & Lasers,3-0-0,6
+PH203,Vacuum Science and Techniques,3-0-0,6
+PH301,Engineering Optics,3-0-0,6
+PH401,Introduction to Nanomaterials,3-0-0,6
+PH402,Solid State Devices,3-0-0,6
+PH403,Photovoltaics & Fuel Cell Technology,3-0-0,6
+PH420,Quantum Mechanics - II,2-1-0,6
+PH421,Mathematical Physics,3-1-0,8
+PH422,Applied Optics,3-1-0,8
+PH423,Classical Mechanics,3-1-0,8
+PH424,Statistical Physics,3-1-0,8
+PH425,Quantum Mechanics I,3-1-0,8
+PH426,Electrodynamics,3-1-0,8
+PH427,Numerical Techniques,2-0-2,6
+PH428,Computational Physics,2-0-3,7
+PH429,Electronics,2-1-0,6
+PH430,Electronics Laboratory,0-0-6,6
+PH440,General Physics Laboratory,0-0-6,6
+PH501,Thin Film Technology,3-0-0,6
+PH502,Nanomaterials for Solar Energy and Photovoltaics,3-0-0,6
+PH503,Nanophotonics,3-0-0,6
+PH504,Computational Nanoscience,3-0-0,6
+PH511,Nanoelectronics,3-0-0,6
+PH512,Nanoionics: Concepts and Technological Applications,3-0-0,6
+PH513,Magnetism at Nanoscale - I,3-0-0,6
+PH514,Nanoscopic Dielectric and Ferroelectric Phenomena,3-0-0,6
+PH515,MEMS and NEMS,3-0-0,6
+PH521,Atomic & Molecular Physics,3-1-0,8
+PH523,Solid State Physics,3-1-0,8
+PH525,Particle Physics,3-1-0,8
+PH527,Measurement Techniques,2-0-2,6
+PH591,Project - I,0-0-8,8
+PH592,Project - II,0-0-16,16
+PH601,Nanoscience,3-0-0,6
+PH602,Quantum Optics And Quantum Information,3-0-0,6
+PH603,Physics of Ultracold Atoms,3-0-0,6
+PH604,Biophotonics,3-0-0,6
+PH605,Introduction to Medical Physics,3-0-0,6
+PH606,Magnetic Materials and Applications,3-0-0,6
+PH607,Materials for Engineering Applications,3-0-0,6
+PH608,Atomic Collision Physics,3-0-0,6
+PH609,Fourier Optics And Holography,3-0-0,6
+PH610,Introductory Biophysics,3-0-0,6
+PH701,Mathematical Physics and Numerical Methods,3-0-0,6
+PH702,Classical Mechanics and Electrodynamics,3-0-0,6
+PH703,Quantum Mechanics and Statistical Mechanics,3-0-0,6
+PH704,Experimental Techniques and Scientific Presentation,3-0-0,6
+PH705,Fourier Optics,3-0-0,6
+PH706,Advanced Course on Semiconductor Devices,3-0-0,6
+PH707,Magnetism and Super Conductivity,3-0-0,6
+PH708,Physics of Materials,3-0-0,6
+PH709,Introduction to the Physics of Nonlinear Systems,3-0-0,6
+PH710,Theory and Application of Holography,3-0-0,6
+SE501,Fundamentals of Mechatronics,3-0-0,6
+SE502,Sensors and Actuators,3-0-0,6
+SE503,Advanced Engineering Mathematics,3-0-0,6
+SE504,Modelling and Simulation of Mechatronics System,3-0-0,6
+SE505,Mechatronic Laboratory - I,0-0-6,6
+SE506,Mechatronic Laboratory - II,3-0-0,6
+SE507,Seminar - I,0-0-4,4
+SE508,Seminar - II,0-0-4,4
+SE600,Comprehensive Viva,0-0-0,10
+SE601,Project - Phase I,0-0-0,40
+SE602,Project - Phase II,0-0-0,45
