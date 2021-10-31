@@ -1,0 +1,133 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[margin=1.5cm]{geometry}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}
+
+\title{Project 2 CS384 -   GUI Based Transcript Generator }
+\author{Dr. Mayank Agarwal}
+\date{Assignment Given: 31st Oct 2021,\\ Deadline 1st December 2021,  
+23:59. Submission: GitHub }
+\begin{document}
+	\maketitle  
+	\textbf{Things to be kept in mind} 
+	\begin{enumerate}
+%		\item Dont take any inputs from user . 
+\item You need to make the project in a group of 2 students. If you wish you 
+can do individually also.  
+
+\item Ensure try catch is used so as to avoid issues while running the code. 
+
+\item You can take online help, but you need to understand the code flow 
+process.
+
+\item Both partners need to commit the project to their respective github. 
+\item Program will be checked for plagiarism.   
+\end{enumerate}
+
+
+You need to make the transcript for IIT Antartica after generating their 
+results.  IIT Antartica since its far away, they were inspired from IIT Logo 
+and replicated it. Refer the tut05 that you have already done, in which you
+computed SPI CPI. Now 
+the job is to make the SPI CPI output into a PDF for transcript (Check sample 
+transcript: 0402CS99.pdf in 	transcriptsIITP folder. That needs to be 
+replicated exactly). You can make a 
+gui interface or a web interface. As always use python for processing  data but 
+for pdf too you need to use a Python supported pdf generation library 
+(pypdf..etc., there are many).
+
+Options that needs to be provided. 
+
+1. This 
+interface will have option to enter a range of roll numbers. Then on single 
+click the program should generate  all the transcript for that range. So if 
+range is 0401cs10-0401cs15, it will generate 6 pdfs. In case the range is 
+0401cs10-0401cs80 (and roll number for 0401cs60-0401cs80 dont exists, just dont 
+generate the files for 0401cs60-0401cs80, but do generate the transcript whose 
+roll numbers exists. Also, pop a list saying that these roll numbers dont 
+exists.). A valid range 0401cs60-0401cs60, in this case only one transcript is 
+generated 0401cs60. Save all file names in upper case. When provided a range, 
+do case-insensitive matching. So  0401cs10-0401cs15,  0401cs10-0401CS15,  
+0401CS10-0401cs15,  0401CS10-0401CS15 generates the same output. 
+
+Generate all the 
+transcripts in the folder:  transcriptsIITP
+
+2. Option 2 is to generate all transcripts. Here given the grades.csv file, 
+first extract all the unique roll numbers and generate all the transcripts in 
+the folder:  transcriptsIITP
+
+Filename will be \textbf{ROLL\_NUMBER.pdf} in UPPER CASE. 
+If for a student only info till sem4 is available then transcript will be till 
+sem4 only. Page size rule is same, btech a3, others a4.\\
+
+
+\textbf{Page Size:}
+
+Since BTech is 8 semesters so what happens here 
+you can not fit all the marks on A4 paper so you need to make the PDF size to 
+A3. However for MTech MSc and PhD the semester usually two or four so you can 
+easily fit on A4 sheet so from the roll number check bit 3 and bit 4. That will 
+provide you 
+this information regarding btech, mtech, phd. 
+01-btech, 11-mtech, 12-msc, 21 phd.
+if Bit3/bit4 is 01 its btech (so a3 page) and if anything else 
+then assume it to be masters/phd (so A4 page). 
+
+Instead of Date of Issue line keep a line for Date Generated, and generate a 
+system date dd-MM-yyyy hh:mm, e.g., 28 Oct 2021, 19:05\\
+\textbf{Date Generated:}  28 Oct 2021, 19:05. Since this time is system 
+generated, so 
+it will have some offset when computing large number of transcript. So first 
+transcript may have 
+\textbf{Date Generated:}  28 Oct 2021, 19:05 and the last one may have 
+\textbf{Date Generated:}  28 Oct 2021, 19:12 depending how many are being 
+generated.
+
+For signature and seal, there should be space provided. In the GUI, keep an 
+option to upload SEAL and signature. Both shall be optional, if not provided, 
+then it will be blank however, the text for signature (Assitant Registrar 
+(Academic)) shall be there irrespctive if sign is there or not. 
+
+
+Helpful links 
+\href{https://towardsdatascience.com/creating-pdf-files-with-python-ad3ccadfae0f}{https://towardsdatascience.com/creating-pdf-files-with-python-ad3ccadfae0f}
+ 
+
+\href{https://stackoverflow.com/questions/2252726/how-to-create-pdf-files-in-python}{https://stackoverflow.com/questions/2252726/how-to-create-pdf-files-in-python}
+
+
+Check sample transcript: 0402CS99.pdf in 	transcriptsIITP folder.\\
+IITP logo and hindi text is your responsibility to search and add.
+
+
+
+
+%Sample Input and Output are provided
+%  7 generation you need to generate transcript semester wise.  So for example 
+%  if the information Up 2 sem 7 is available you need to also generate a total 
+%  of seven transcript for that particular roll number write roll number\_sem 1 
+%  roll number and usko sem 2 and so on up to roll number\_sem 7
+
+%
+%\textbf{Note: Please convert the roll number to upper case while saving the 
+%files..}\\
+%
+%So correct answer will be marked with the roll number as ANSWER (in uppercase) 
+%which can be in any row in the the csv (Column is fixed as said above)
+%Create a python GUI mark sheet generator containing following key points:
+%\begin{itemize}
+%    \item Add a button where you can browse .csv file and check if ANSWER is 
+%present or pop up error.
+%    \item Enter the 5 marks for correct answers and -1 for wrong answer and 
+%make a button \textbf{Compute Marksheet}. 
+%    \item When you click on \textbf{Compute Marksheet} button,
+%Note: The total marks are displayed after being calculated automatically.
+%
+%\item Now add a button \textbf{Generate Marks}.
+%\end{itemize}
+
+\end{document}
